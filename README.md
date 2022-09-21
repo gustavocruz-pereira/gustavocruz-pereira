@@ -14,6 +14,7 @@ Guz555/Guz555 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <div>
   <h2>Contact 📞</h2>
   <a href="https://wa.me/5515991088894" target="_blank">
@@ -45,12 +46,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
 </div>
 
-<div>
-  <h3>Info 📊</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocruz-pereira&layout=compact&theme=chartreuse-dark">
-</div>
-
 <div align="center">
-<h2>Total visits on this profile:</h2>
-<img src="https://profile-counter.glitch.me/gustavocruz-pereira/count.svg">
+  <div>
+    <h3>Info 📊</h3>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocruz-pereira&layout=compact&theme=chartreuse-dark">
+  </div>
+
+
+  <h2>Total visits on this profile:</h2>
+  <img src="https://profile-counter.glitch.me/gustavocruz-pereira/count.svg">
 </div>
