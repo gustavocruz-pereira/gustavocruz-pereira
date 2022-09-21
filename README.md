@@ -1,12 +1,13 @@
-<div>
-  <h1>Gustavo Cruz</h1>
- </div>
+<h1>Gustavo Cruz</h1>
 
 - 👋 Hi, I’m Gustavo Cruz
 - 👀 I’m interested in Python codes
 - 🌱 I’m currently learning MySQL, JavaScript
 - 📫 How to reach me: guz.cruz.07@gmail.com
+
+
 <img src="https://miro.medium.com/max/1400/1*eBZfXMuE72uCDtjUZEzZHQ.gif" width=350 height=auto>
+
 
 <!---
 Guz555/Guz555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +48,9 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h3>Info 📊</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocruz-pereira&layout=compact&theme=chartreuse-dark">
+</div>
+
+<div align="center">
+<h2>Total visits on this profile:</h2>
+<img src="https://profile-counter.glitch.me/gustavocruz-pereira/count.svg">
 </div>
