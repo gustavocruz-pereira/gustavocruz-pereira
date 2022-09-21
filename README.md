@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <h2>Contact</h2>
+  <h2>Contact 📞</h2>
   <a href="https://wa.me/5515991088894" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black">
   </a>
@@ -26,14 +26,14 @@ You can click the Preview link to take a look at your changes.
  </div>
 
 <div>
-  <h2>My website</h2>
+  <h2>My website 💻</h2>
   <a href="https://gustavocruzdev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"> 
   </a>
 </div>
 
 <div>
-  <h2>Skills</h2>
+  <h2>Skills 🐍</h2>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=lime">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=lime">
