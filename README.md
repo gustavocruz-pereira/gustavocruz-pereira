@@ -6,6 +6,7 @@
 - 👀 I’m interested in Python codes
 - 🌱 I’m currently learning MySQL, JavaScript
 - 📫 How to reach me: guz.cruz.07@gmail.com
+<img src="https://miro.medium.com/max/1400/1*eBZfXMuE72uCDtjUZEzZHQ.gif" width=350 height=auto>
 
 <!---
 Guz555/Guz555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
