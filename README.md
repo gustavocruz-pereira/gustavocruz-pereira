@@ -63,7 +63,4 @@ You can click the Preview link to take a look at your changes.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocruz-pereira&layout=compact&theme=chartreuse-dark">
  </div>
 
-
-## Total visits on this profile:
-  <img src="https://profile-counter.glitch.me/gustavocruz-pereira/count.svg">
 </div>
