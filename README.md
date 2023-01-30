@@ -57,10 +57,11 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <div>
     <h3>Info 📊</h3>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocruz-pereira&layout=compact&theme=chartreuse-dark">
  </div>
+ -->
 
 </div>
