@@ -4,7 +4,7 @@
 <p>I'm a systems development student, currently studying on my own but I don't stop programming. I love challenges and solving problems, and always trying to learn something new. You can reach me by sending me an e-mail  on: guz.cruz.07@gmail.com ✉</p>
 
 
-<img src="https://miro.medium.com/max/1400/1*eBZfXMuE72uCDtjUZEzZHQ.gif" width=550 height=auto>
+<img src="https://miro.medium.com/max/1400/1*eBZfXMuE72uCDtjUZEzZHQ.gif" width=350 height=auto>
 
 
 <!---
