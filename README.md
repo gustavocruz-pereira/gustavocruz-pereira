@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## Contact 📞
+
 
 <a href="https://wa.me/5515991088894" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black">
@@ -31,13 +31,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-## My website 💻
- 
- <a href="https://gustavocruzdev.netlify.app/">
-    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"> 
- </a>
- <br>
- <a href="https://gustavocruzdev.netlify.app/" target="_blank">Or click here</a>
 
 
 <div>
@@ -55,13 +48,4 @@ You can click the Preview link to take a look at your changes.
   ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   
-</div>
-
- <div align="center">
-  <div>
-    <h3>Info 📊</h3>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocruz-pereira&layout=compact&theme=chartreuse-dark">
- </div>
-
-
 </div>
